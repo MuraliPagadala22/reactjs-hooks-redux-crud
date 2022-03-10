@@ -4,12 +4,6 @@ Build React Redux Tutorial Application with Rest API calls in that:
 - We can create, retrieve, update, delete Tutorials.
 - There is a Search bar for finding Tutorials by title.
 
-![react-hooks-redux-crud-example](react-hooks-redux-crud-example.png)
-
-Redux Store:
-
-![react-hooks-redux-crud-example-redux-store-architecture](react-hooks-redux-crud-example-redux-store-architecture.png)
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Set port
